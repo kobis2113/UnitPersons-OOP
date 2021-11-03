@@ -2,7 +2,7 @@ using MamasOopExercise.Classes;
 using MamasOopExercise.Enums;
 using MamasOopExercise.Interfaces;
 
-namespace MamasOopExercise
+namespace MamasOopExercise.UnitPersons
 {
     public class UnitPerson : IUnitPerson
     {
